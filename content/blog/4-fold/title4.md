@@ -18,12 +18,14 @@ fork [https://github.com/gatsbyjs/gatsby-starter-blog](https://github.com/gatsby
 
 .forestry/settings.yml
 
-  #設定forestry 左邊的介面 [https://forestry.io/docs/settings/content-sections/](https://forestry.io/docs/settings/content-sections/ "https://forestry.io/docs/settings/content-sections/")
+\#設定forestry 左邊的介面 [https://forestry.io/docs/settings/content-sections/](https://forestry.io/docs/settings/content-sections/ "https://forestry.io/docs/settings/content-sections/")
 
 .forestry/front_matter/templates/xx.yml
 
-  #設定front matter的介面
+\#設定front matter的介面
 
-  [https://forestry.io/docs/settings/front-matter-templates/](https://forestry.io/docs/settings/front-matter-templates/ "https://forestry.io/docs/settings/front-matter-templates/")
+[https://forestry.io/docs/settings/front-matter-templates/](https://forestry.io/docs/settings/front-matter-templates/ "https://forestry.io/docs/settings/front-matter-templates/")
 
-  [https://forestry.io/docs/editing/front-matter/](https://forestry.io/docs/editing/front-matter/ "https://forestry.io/docs/editing/front-matter/")
+[https://forestry.io/docs/editing/front-matter/](https://forestry.io/docs/editing/front-matter/ "https://forestry.io/docs/editing/front-matter/")
+
+![](/content/images/2020-01-05 16_47_45-forestry.io.jpg)
